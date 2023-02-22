@@ -4,7 +4,7 @@ I am currently a **front-end engineer** with more than **5 years** of experience
 <br />
 I love solving bugs and problems. I really believe that nothing is more important and exciting than learning and teaching web-based technologies and there is still so much for me to learn. I am incredibly patient and friendly with my co-workers and teammates and socialize well with people. Basically, if you have some coffee or Nescafe, I can work with you! 
 
-🔥 [Ramin Terminal](https://raminrezaei.ir)
+🔥 [Personal Site](https://raminrezaei.ir)
 <br />
 💎 [Download Resume](https://raminrezaei.ir/resume/)
 
