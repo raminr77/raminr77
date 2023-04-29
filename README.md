@@ -6,7 +6,7 @@ I love solving bugs and problems. I really believe that nothing is more importan
 
 🔥 [Personal Site](https://raminrezaei.ir)
 <br />
-💎 [Download Resume](https://raminrezaei.ir/resume/)
+💎 [Download Resume](https://raminrezaei.ir/resume.pdf)
 
 <br />
 
