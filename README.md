@@ -10,11 +10,13 @@ I love solving bugs and problems. I really believe that nothing is more importan
 
 <br />
 <center>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raminr77&layout=compact&langs_count=6&hide=c%23,css,html&hide_title=true&theme=gruvbox&bg_color=000000&border_color=000000&text_color=f9f5d7)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=raminr77&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=000000&border_color=000000&text_color=f9f5d7)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raminr77&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
+  
 </center>
 <br />
 
