@@ -3,7 +3,10 @@ You meet Ramin, a software engineer with over **6 years** of experience in web d
 Proudly I contributed to large-scale projects within the **Digikala Group**. These projects have over 10 million daily visits and over 40 million users.
 <br />
 I really believe that nothing is more important and exciting than learning and teaching web-based technologies and **there is still so much for me to learn**. I am incredibly patient and friendly with my co-workers and teammates and socialize well with people.
+
 <br />
+<br />
+
 🔥 [About Me](https://raminrezaei.ir)
 <br />
 💎 [Download Resume](https://raminrezaei.ir/resume.pdf)
