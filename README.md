@@ -5,6 +5,10 @@ Proudly I contributed to large-scale projects within the **Digikala Group**. The
 
 I really believe that nothing is more important and exciting than learning and teaching web-based technologies and **there is still so much for me to learn**. I am incredibly patient and friendly with my co-workers and teammates and socialize well with people.
 
+### About Ramin's GitHub
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=raminr77&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
 ### To know more about Ramin ...
 
 🔥 [Personal Site](https://raminrezaei.ir)
