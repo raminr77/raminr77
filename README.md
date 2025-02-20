@@ -16,3 +16,7 @@ I really believe that nothing is more important and exciting than learning and t
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/raminr77/)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/raminr77/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-af3a03?style=flat&logo=stackoverflow&logoColor=fbf1c7)](https://stackoverflow.com/users/9749174/ramin-rezaei)
+
+<br />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raminr77&bg_color=0d1117&color=6e6e6e&line=00572a&point=39d353&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
