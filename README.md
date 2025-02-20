@@ -11,9 +11,7 @@ I really believe that nothing is more important and exciting than learning and t
 
 #### To know more about Ramin ...
 
-🔥 [Personal Site](https://raminrezaei.ir)
-
-📥 [Download Resume](https://raminrezaei.ir/resume.pdf)
+🔥 [Personal Site](https://raminrezaei.se)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/raminr77/)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/raminr77/)
