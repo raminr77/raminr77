@@ -14,7 +14,7 @@ The most important and exciting thing for me is learning and teaching web-based 
 <br />
 
 <details close>
-  <summary><h2>About Ramin's GitHub</h2></summary>
+  <summary>About Ramin's GitHub</summary>
   <br />
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=raminr77&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff" alt="Top Langs" />
