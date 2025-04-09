@@ -25,10 +25,10 @@ The most important and exciting thing for me is learning and teaching web-based 
       <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,kotlin,mysql,mongodb" />
       <br /><br />
       <p>Tools:</p>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,laravel,nextjs,react,gcp,kubernetes,docker,firebase,tensorflow" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,laravel,nextjs,react,firebase,tensorflow" />
       <br /><br />
       <p>SRE:</p>
-      <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,cloudflare,github,gitlab,githubactions,git" />
+      <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,cloudflare,github,gitlab,githubactions,firebase,git" />
       <br /><br />
       <p>Graphics:</p>
       <img src="https://skillicons.dev/icons?i=ae,pr,au,ps" />
