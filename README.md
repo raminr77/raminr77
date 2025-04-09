@@ -1,13 +1,43 @@
-# Hi Guys ✋🏻 I'm **Ramin**
+# Hi Guys ✋🏻
 
-You meet Ramin, a software engineer with over **6 years** of experience in web development. With a strong focus on **front-end** and familiarity with **back-end** technologies.
-Proudly I contributed to large-scale projects within the **Digikala Group**. These projects have over 10 million daily visits and over 40 million users. The story of these exciting projects continues and now I am working at **Boozt** company.
+You meet Ramin, a <strong>Software Engineer</strong> with <strong>over 6 years</strong> of experience in web development.
+<br />
+With a strong focus on back-end, front-end, and familiarity with Data and Machine Learning technologies.
+<br />
+He contributed to large-scale projects within the <strong>Digikala Group</strong> for 3 years.
+<br />
+These projects have <strong>over 10 million</strong> daily visits and <strong>over 40 million</strong> active users. Then he continued his journey at <strong>Boozt Company</strong> (Biggest Nordic Department Store) for more than one year.
+<br />
+The story of these exciting projects continues in <strong>Sweden</strong>, and now Ramin is working at <strong>Sinch</strong> company.
+<br />
+The most important and exciting thing for me is learning and teaching web-based technologies, and **there is still so much for me to learn**.
+<br />
 
-I really believe that nothing is more important and exciting than learning and teaching web-based technologies and **there is still so much for me to learn**. I am incredibly patient and friendly with my co-workers and teammates and socialize well with people.
-
-#### About Ramin's GitHub
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=raminr77&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+<details close>
+  <summary><h2>About Ramin's GitHub</h2></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=raminr77&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff" alt="Top Langs" />
+  </p>
+  <be />
+  <div align="left">
+      <p>Languages:</p>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,kotlin,mysql,mongodb" />
+      <br /><br />
+      <p>Tools:</p>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,laravel,nextjs,react,gcp,kubernetes,docker,firebase,tensorflow" />
+      <br /><br />
+      <p>SRE:</p>
+      <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,cloudflare,github,gitlab,githubactions,git" />
+      <br /><br />
+      <p>Graphics:</p>
+      <img src="https://skillicons.dev/icons?i=ae,pr,au,ps" />
+      <br /><br />
+      <p>Others:</p>
+      <img src="https://skillicons.dev/icons?i=anaconda,tailwind,redux,html,css,scss,cypress,d3,gulp,svg" />
+  </p>
+  <br /><br />
+</details>
 
 #### To know more about Ramin ...
 
