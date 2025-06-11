@@ -19,7 +19,7 @@ The most important and exciting thing for me is learning and teaching web-based 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=raminr77&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff" alt="Top Langs" />
   </p>
-  <be />
+  <br />
   <div align="left">
       <p>Languages:</p>
       <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,kotlin,mysql,mongodb" />
@@ -39,6 +39,24 @@ The most important and exciting thing for me is learning and teaching web-based 
   <br /><br />
 </details>
 
+<br />
+
+<details close>
+  <summary>Ramin's Contribution</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raminr77&bg_color=0d1117&color=6e6e6e&line=00572a&point=39d353&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="Ashutosh's github activity graph" />
+  </p>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raminr77/raminr77/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raminr77/raminr77/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raminr77/raminr77/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+  <br /><br />
+</details>
+
 #### To know more about Ramin ...
 
 🔥 [Personal Site](https://raminrezaei.se)
@@ -46,13 +64,3 @@ The most important and exciting thing for me is learning and teaching web-based 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/raminr77/)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/raminr77/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-af3a03?style=flat&logo=stackoverflow&logoColor=fbf1c7)](https://stackoverflow.com/users/9749174/ramin-rezaei)
-
-<br />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raminr77&bg_color=0d1117&color=6e6e6e&line=00572a&point=39d353&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raminr77/raminr77/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raminr77/raminr77/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raminr77/raminr77/output/github-contribution-grid-snake.svg">
-</picture>
