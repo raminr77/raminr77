@@ -13,6 +13,7 @@ The story of these exciting projects continues in <strong>Sweden</strong>, and n
 The most important and exciting thing for me is learning and teaching web-based technologies, and **there is still so much for me to learn**.
 <br />
 
+---
 <details close>
   <summary>About Ramin's GitHub</summary>
   <br />
@@ -39,8 +40,6 @@ The most important and exciting thing for me is learning and teaching web-based 
   <br /><br />
 </details>
 
-<br />
-
 <details close>
   <summary>Ramin's Contribution</summary>
   <br />
@@ -57,6 +56,7 @@ The most important and exciting thing for me is learning and teaching web-based 
   <br /><br />
 </details>
 
+---
 #### To know more about Ramin ...
 
 🔥 [Personal Site](https://raminrezaei.se)
