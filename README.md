@@ -50,3 +50,11 @@ The most important and exciting thing for me is learning and teaching web-based 
 <br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raminr77&bg_color=0d1117&color=6e6e6e&line=00572a&point=39d353&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
