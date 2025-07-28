@@ -8,7 +8,7 @@ He contributed to large-scale projects within the <strong>[Digikala Group](https
 <br />
 These projects have <strong>over 10 million</strong> daily visits and <strong>over 40 million</strong> active users. Then he continued his journey at <strong>[Boozt Company](https://www.linkedin.com/company/boozt-fashion/)</strong> (Biggest Nordic Department Store) for more than one year.
 <br />
-The story of these exciting projects continues in <strong>Sweden</strong>, and now Ramin is working at <strong>[Sinch](https://www.linkedin.com/company/sinch/posts/)</strong> company, Sinch is pioneering the way the world communicates. More than 150,000 businesses — including Google, Uber, Paypal, Visa, Tinder, and many others — rely on Sinch’s Customer Communications Cloud to power engaging customer experiences through mobile messaging, voice, and email..
+The story of these exciting projects continues in <strong>Sweden</strong>, and now Ramin is working at <strong>[Sinch](https://www.linkedin.com/company/sinch/posts/)</strong> company.
 <br />
 The most important and exciting thing for me is learning and teaching web-based technologies, and **there is still so much for me to learn**.
 <br />
