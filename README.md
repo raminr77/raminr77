@@ -4,17 +4,9 @@ I’m <strong>Ramin Rezaei</strong>, a <strong>Senior Software Engineer</strong>
 
 I work across both <strong>frontend and backend</strong>, with strong expertise in <strong>JavaScript</strong>, <strong>TypeScript</strong>, and <strong>React</strong>, alongside hands-on experience with <strong>Node.js</strong>, <strong>Python</strong>, <strong>Kotlin</strong>, and <strong>Java</strong>. I enjoy solving real-world problems where performance, reliability, and scalability matter.
 
-<br />
-
 I spent <strong>3 years</strong> at <strong>[Digikala Group](https://www.linkedin.com/company/digikala/)</strong>, contributing to large-scale e-commerce systems serving <strong>40+ million active users</strong> and handling <strong>10+ million daily visits</strong>.
-
 Then I joined <strong>[Boozt](https://www.linkedin.com/company/boozt-fashion/)</strong>, the <strong>largest online department store in the Nordics</strong>, where I worked on internal platforms, performance improvements, and scalable content systems used across multiple markets.
-
-<br />
-
 Today, I’m based in <strong>Sweden</strong> and working at <strong>[Sinch](https://www.linkedin.com/company/sinch/posts/)</strong>, a global leader in <strong>cloud communications</strong>. I focus on building reliable systems and modern engineering platforms that power communication at scale.
-
-<br />
 
 What I enjoy most is <strong>learning, building, and sharing knowledge</strong>. There’s always something new to explore, and that’s exactly what keeps me motivated.
 
