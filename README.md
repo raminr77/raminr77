@@ -43,16 +43,6 @@ What I enjoy most is <strong>learning, building, and sharing knowledge</strong>.
 </details>
 
 <details>
-  <summary><strong>GitHub Stats</strong></summary>
-  <br />
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=raminr77&count_private=true&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0D1117&border_color=0D1117&text_color=ffffff" />
-  </p>
-
-</details>
-
-<details>
   <summary><strong>Contribution Activity</strong></summary>
   <br />
 
