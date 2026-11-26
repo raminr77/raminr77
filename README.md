@@ -1,6 +1,6 @@
 # Hi there ✋🏻
 
-I’m <strong>Ramin Rezaei</strong>, a <strong>Senior Software Engineer</strong> with <strong>7+ years</strong> of experience building and scaling software systems.
+I’m <strong>Ramin Rezaei</strong>, a <strong>Senior Software Engineer</strong> with <strong>10+ years</strong> of experience building and scaling software systems.
 
 I work across both <strong>frontend and backend</strong>, with strong expertise in <strong>JavaScript</strong>, <strong>TypeScript</strong>, and <strong>React</strong>, alongside hands-on experience with <strong>Node.js</strong>, <strong>Python</strong>, <strong>Kotlin</strong>, and <strong>Java</strong>. I enjoy solving real-world problems where performance, reliability, and scalability matter.
 
@@ -42,7 +42,7 @@ What I enjoy most is <strong>learning, building, and sharing knowledge</strong>.
   </p>
 </details>
 
-<details>
+<!-- <details>
   <summary><strong>Contribution Activity</strong></summary>
   <br />
 
@@ -58,7 +58,7 @@ What I enjoy most is <strong>learning, building, and sharing knowledge</strong>.
     </picture>
   </div>
 
-</details>
+</details> -->
 
 ---
 
